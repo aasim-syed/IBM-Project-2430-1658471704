@@ -147,3 +147,23 @@ Type ```pip install opencv-contrib-python``` and click enter.
 Type ```pip install Flask``` and click enter.
 
 </div>
+
+# Project Structure
+Let us introduce you to the main project folder downloaded by you in prerequisites.
+
+<img src="https://lh3.googleusercontent.com/TkkONaza7mznm57CxUIlEnng9-kokb5P9lVg3B2jQyXQkzg9Y36Cp4b9BGBHtvQo_75Jsb2rxkVUwFwoMJtQ-3abEbJSYlz2y7rSxMr4sfRMFmuZYgGr5FYXqT3cC9D75Vj4ICKt"></img>
+
+
+# Training folder contains:
+
+```Parkinson_detect.py```
+
+```model file “parkinson.pkl” ```
+
+# Flask App folder contains:
+
+static folder with the style sheets and the image required
+
+templates folder with the HTML pages
+
+app.py, a python script (Flask file) for server side computing. 

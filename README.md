@@ -35,3 +35,48 @@ The researchers found that the drawing speed was slower and the pen pressure is 
 
 <li>You will be able to build web applications using the Flask framework.</li>
 </ul>
+
+# Project Flow
+
+<ol>
+ <li> User interacts with the UI (User Interface) to upload the image as input  </li>
+ 
+ <li> The uploaded image is analyzed by the model which is integrated </li>
+
+ <li> Once the model analyzes the uploaded image, the prediction is showcased on the UI and OpenCV window </li>
+</ol>
+
+## To accomplish this, we have to complete all the activities and tasks listed below 
+
+<ol>
+
+ <li>Data Collection </li>
+
+ <li> Collect the dataset or Create the dataset </li>
+
+ <li>  Image Preprocessing. </li>
+
+ <li> Importing the required libraries </li>
+
+ <li> Loading Train data and Test data  </li>
+ 
+ <li> Quantifying images </li>
+
+ <li> Label Encoding </li>
+
+ <li> Model Building </li>
+ 
+ <li> Training the model </li>
+
+ <li> Testing the model  </li>
+
+ <li> Model Evaluation </li>
+
+ <li> Saving the model </li>
+
+ <li> Application Building </li>
+
+ <li> Create an HTML file </li>
+
+ <li> Build Python Code </li>
+</ol>

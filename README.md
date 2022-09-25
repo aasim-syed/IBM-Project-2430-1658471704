@@ -80,3 +80,70 @@ The researchers found that the drawing speed was slower and the pen pressure is 
 
  <li> Build Python Code </li>
 </ol>
+
+<div class="Pre-Requisites">
+# Pre-Requisites
+
+In order to develop this project we need to install the following software/packages:
+# Anaconda Navigator :
+
+Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform, package management system. Anaconda comes with so very nice tools like JupyterLab, Jupyter Notebook, QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code. For this project, we will be using Jupyter notebook and Spyder
+
+To install Anaconda navigator and to know how to use Jupyter Notebook & Spyder using Anaconda watch the video
+
+<a href="https://youtu.be/5mDYijMfSzs" >``` https://youtu.be/5mDYijMfSzs ```</a>
+
+# To build Machine learning models you must require the following packages
+## Numpy:
+
+ It is an open-source numerical Python library. It contains a multidimensional array and matrix data structures and can be used to perform mathematical operations
+
+# Scikit-learn:
+
+It is a free machine learning library for Python. It features various algorithms like support vector machine, random forests, and k-nearest neighbours, and it also supports Python numerical and scientific libraries like NumPy and SciPy
+
+# Scikit-image
+
+Scikit-image or skimage,  is an open-source Python package designed for image preprocessing. 
+
+
+# Install imutils
+
+Imutils are a series of convenience functions to make basic image processing functions such as translation, rotation, resizing, and displaying Matplotlib images easier with OpenCV
+
+# Open anaconda prompt and type this command
+
+```pip install imutils```
+
+
+# OpenCV
+
+OpenCV is a library of programming functions mainly aimed at real-time computer vision. Here, OpenCV is used to capture frames by accessing the webcam in real-time.
+
+Open anaconda prompt and type this command
+
+```pip install opencv-contrib-python```
+
+
+# Flask: 
+
+## Web framework used for building Web applications
+
+
+If you are using anaconda navigator, follow below steps to download required packages:
+
+Open anaconda prompt.
+
+Type ```pip install numpy``` and click enter.
+
+Type ```pip install scikit-image``` and click enter.
+
+Type ```pip install imutils``` and click enter.
+
+Type  ```pip install scikit-learn``` and click enter.
+
+Type ```pip install opencv-contrib-python``` and click enter.
+
+Type ```pip install Flask``` and click enter.
+
+</div>

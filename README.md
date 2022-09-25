@@ -21,3 +21,17 @@ The researchers found that the drawing speed was slower and the pen pressure is 
 <div align="center">
 <img src="https://lh3.googleusercontent.com/_feL0AG16jhaypq83YLxFfmaY4sg5NURNNngQj4QISnYGl_KaYZN5fAqFXDnIF12TxzZ9LhbOzUskLwcy6DVo-uU5y3Y5hIY4X3283ha7Ugs3g9HHifNMpTDnrIAl5J_voEYvQku"></img>
 </div>
+
+# Project Objectives
+<h3> By the end of this project:</h3>
+<ul >
+<li>You’ll be able to understand the problem to classify if it is a regression or a classification kind of problem.</li>
+
+<li>You will be able to know how to pre-process the image by using different data pre-processing techniques.</li>
+
+<li>you will be able to learn how to use OpenCV and machine learning to automatically detect Parkinson’s disease in hand-drawn images of spirals and waves.</li>
+
+<li>You will be able to know how to find the accuracy of the model.</li>
+
+<li>You will be able to build web applications using the Flask framework.</li>
+</ul>

@@ -2,7 +2,7 @@
 # Detecting Parkinson’s Disease using Machine Learning⚡
 ![image](https://user-images.githubusercontent.com/70385414/191471540-f4c52f4f-3d82-4338-a930-132a373a963d.png)
 
-
+[![badge_colab](https://img.shields.io/badge/Demo-Open_in_Colab-blue?style=flat-square&logo=googlecolab)](https://colab.research.google.com/)
 
 <div align="center">
    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></img>

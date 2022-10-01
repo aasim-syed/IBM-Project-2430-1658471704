@@ -82,7 +82,8 @@ The researchers found that the drawing speed was slower and the pen pressure is 
 </ol>
 
 <div class="Pre-Requisites">
-# Pre-Requisites
+
+#  Pre-Requisites
 
 In order to develop this project we need to install the following software/packages:
 # Anaconda Navigator :

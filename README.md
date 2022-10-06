@@ -1,7 +1,6 @@
 # Detecting Parkinson’s Disease using Machine Learning⚡
 
 ![image](https://user-images.githubusercontent.com/70385414/191471540-f4c52f4f-3d82-4338-a930-132a373a963d.png)
-
 <div align="center">
    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></img>
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></img>
@@ -81,7 +80,8 @@ The researchers found that the drawing speed was slower and the pen pressure is 
 </ol>
 
 <div class="Pre-Requisites">
-# Pre-Requisites
+
+#  Pre-Requisites
 
 In order to develop this project we need to install the following software/packages:
 

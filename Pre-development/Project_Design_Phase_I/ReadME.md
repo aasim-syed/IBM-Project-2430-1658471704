@@ -6,3 +6,8 @@
 ## Solution Architecture
 
 ![image](https://user-images.githubusercontent.com/70385414/195377781-53e394e7-8ccf-48ea-8dce-0fb5f12b8771.png)
+
+
+## Problem Solution
+
+![image](https://user-images.githubusercontent.com/70385414/195378297-301bc47d-7948-4fff-b613-7a86c58fbb1b.png)

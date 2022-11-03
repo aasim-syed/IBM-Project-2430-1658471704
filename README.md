@@ -1,6 +1,6 @@
 # Detecting Parkinson’s Disease using Machine Learning⚡
 
-![image](https://user-images.githubusercontent.com/70385414/191471540-f4c52f4f-3d82-4338-a930-132a373a963d.png)
+![image](https://user-images.githubusercontent.com/70385414/191471540-f4c52f4f-3d82-4338-a930-132a373a963d.png)~
 <div align="center">
    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></img>
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></img>
